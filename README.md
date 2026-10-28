@@ -6,7 +6,7 @@
 ## Struktur Proyek 
 
 ```text
-Iklimara/
+IKLIMARA/
 ├── CSS/
 │   └── style.css
 │
@@ -84,4 +84,20 @@ Iklimara dikembangkan untuk:
 | 7 | Tentang | tentang.html | Tujuan website, keterkaitan dengan SDG 13, referensi, dan informasi anggota kelompok |
 
 ---
+
+## Penjelasan Implementasi
+
+---
+
+## Sumber Refrensi
+
+---
+
+## Penutup
+
+Perubahan iklim bukan sekadar persoalan tentang bumi yang semakin panas, tetapi juga tentang kehidupan yang kita jalani dan masa depan yang akan kita wariskan. Melalui Iklimara, kami ingin menunjukkan bahwa memahami perubahan iklim merupakan langkah awal untuk menentukan tindakan yang lebih bijak.
+
+Setiap perubahan membutuhkan kesadaran, setiap solusi membutuhkan tindakan, dan setiap tindakan memiliki arti ketika dilakukan bersama. Kita mungkin tidak dapat menyelesaikan seluruh persoalan iklim dalam satu langkah, tetapi kita dapat memulai dari langkah yang ada dalam jangkauan kita.
+
+### Bumi tidak membutuhkan janji yang sempurna, melainkan tindakan nyata yang dilakukan bersama.
 
