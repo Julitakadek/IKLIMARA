@@ -1,7 +1,11 @@
-# Iklimara — materi dan tampilan dipertahankan
+# IKLIMARA
 
-Website ini memakai tujuh halaman HTML dan stylesheet bersama. Penambahan pada paket ini hanya mencakup menu hamburger yang dapat dibuka pada laptop maupun handphone (HTML/CSS tanpa JavaScript) dan baris copyright di bagian bawah setiap halaman.
-
+### Pahami • Peduli • Bergerak
+---
+## Deskripsi Website
+Iklimara merupakan website edukasi yang membahas perubahan iklim dan aksi iklim dengan mengacu pada Sustainable Development Goal (SDG) 13: Penanganan Perubahan Iklim. Website ini dirancang untuk membantu pengguna memahami pengertian perubahan iklim, penyebab, dampak, mitigasi, dan adaptasi melalui materi yang disusun secara bertahap.
+Website dikembangkan menggunakan HTML5, CSS3, dan JavaScript tanpa menggunakan framework antarmuka.
+---
 ## Halaman
 1. `index.html` — Beranda
 2. `iklim.html` — Mengenal perubahan iklim
