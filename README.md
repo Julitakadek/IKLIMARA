@@ -75,6 +75,13 @@ Iklimara dikembangkan untuk:
 
 ## Teknologi Yang Digunakan
 
+| Teknologi | Implementasi |
+|---|---|
+| HTML5 | Menyusun struktur halaman, navigasi, teks, gambar, kartu informasi, kuis, daftar periksa, dan elemen informasi tambahan |
+| CSS3 | Mengatur warna, tipografi, tata letak, kartu, navigasi, umpan balik kuis, serta tampilan responsif |
+| JavaScript | Mengatur kemunculan menu mengambang berdasarkan posisi gulir dan membuka atau menutup panel navigasi |
+| Google Fonts | Memuat font DM Sans dan Manrope untuk tampilan website |
+
 ---
 
 ## Struktur Halaman Website
@@ -123,6 +130,8 @@ Perubahan iklim bukan sekadar persoalan tentang bumi yang semakin panas, tetapi 
 Setiap perubahan membutuhkan kesadaran, setiap solusi membutuhkan tindakan, dan setiap tindakan memiliki arti ketika dilakukan bersama. Kita mungkin tidak dapat menyelesaikan seluruh persoalan iklim dalam satu langkah, tetapi kita dapat memulai dari langkah yang ada dalam jangkauan kita.
 
 **Bumi tidak membutuhkan janji yang sempurna, melainkan tindakan nyata yang dilakukan bersama.**
+
+
 
 
 
