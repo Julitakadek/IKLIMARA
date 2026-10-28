@@ -40,27 +40,28 @@ Iklimara dikembangkan untuk:
 ---
 ## Struktur Proyek 
 
-```text
 Iklimara/
-├── index.html
-├── iklim.html
-├── penyebab.html
-├── dampak.html
-├── mitigasi.html
-├── adaptasi.html
-├── tentang.html
-```text
-Iklimara/
-├── index.html
-├── iklim.html
-├── penyebab.html
-├── dampak.html
-├── mitigasi.html
-├── adaptasi.html
-├── tentang.html
-├── css/
+├── CSS/
 │   └── style.css
-└── images/
+│
+├── images/
+│   ├── Gambar1.png
+│   ├── campus.jpg
+│   ├── coast.jpg
+│   ├── farm.jpg
+│   ├── forest.jpg
+│   ├── logo.svg
+│   ├── renewable.jpg
+│   └── traffic.jpg
+│
+├── README.md
+├── index.html
+├── iklim.html
+├── penyebab.html
+├── dampak.html
+├── mitigasi.html
+├── adaptasi.html
+└── tentang.html
 ```
 
 ```
