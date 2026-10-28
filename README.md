@@ -33,3 +33,24 @@ Iklimara dikembangkan untuk:
 6. Mendorong pengguna memahami permasalahan iklim melalui materi dan kuis interaktif.
 
 ---
+---
+## Teknologi Yang Digunakan
+
+---
+---
+## Struktur Proyek 
+
+```text
+Iklimara/
+├── index.html
+├── iklim.html
+├── penyebab.html
+├── dampak.html
+├── mitigasi.html
+├── adaptasi.html
+├── tentang.html
+├── css/
+│   └── style.css
+└── images/
+```
+
