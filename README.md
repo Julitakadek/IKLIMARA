@@ -11,24 +11,25 @@
 | 2 | Marsel Gultom | 2515091069 | Membuat halaman beranda dan tentang serta membuat css | 
 | 3 | Kadek Tito Marditya Putra | 2515091104 | Membuat halaman dampak |
 | 4 | Ronatio Br Parhusip | 2515091147 | Membuat halaman penyebab |
-| 5 | Putu Nanda Devani Aprilia | Membuat halaman Adaptasi |
+| 5 | Putu Nanda Devani Aprilia | 2515091022 | Membuat halaman Adaptasi |
 
 ---
 ---
 ## Deskripsi Website
 
 Iklimara merupakan website edukasi yang membahas perubahan iklim dan aksi iklim dengan mengacu pada Sustainable Development Goal (SDG) 13: Penanganan Perubahan Iklim. Website ini dirancang untuk membantu pengguna memahami pengertian perubahan iklim, penyebab, dampak, mitigasi, dan adaptasi melalui materi yang disusun secara bertahap.
-
 Website dikembangkan menggunakan HTML5, CSS3, dan JavaScript tanpa menggunakan framework antarmuka.
 
 ---
-## Halaman
-1. `index.html` — Beranda
-2. `iklim.html` — Mengenal perubahan iklim
-3. `penyebab.html` — Penyebab dan jejak karbon
-4. `dampak.html` — Dampak perubahan iklim
-5. `mitigasi.html` — Mitigasi perubahan iklim
-6. `adaptasi.html` — Adaptasi dan aksi iklim
-7. `tentang.html` — Tentang dan daftar pustaka
+---
+## Tujuan Website
 
-Buka `index.html` di browser atau gunakan Live Server. Jangan pisahkan folder `css` dan `images`.
+Iklimara dikembangkan untuk:
+• Menjelaskan pengertian perubahan iklim dan perbedaannya dengan cuaca.
+• Mengidentifikasi penyebab utama perubahan iklim.
+• Menjelaskan dampak perubahan iklim terhadap manusia dan lingkungan.
+• Memperkenalkan tindakan mitigasi untuk mengurangi penyebab perubahan iklim.
+• Menjelaskan adaptasi untuk menghadapi risiko perubahan iklim.
+• Mendorong pengguna memahami permasalahan iklim melalui materi dan kuis interaktif.
+
+---
