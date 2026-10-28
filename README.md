@@ -25,11 +25,11 @@ Website dikembangkan menggunakan HTML5, CSS3, dan JavaScript tanpa menggunakan f
 ## Tujuan Website
 
 Iklimara dikembangkan untuk:
-• Menjelaskan pengertian perubahan iklim dan perbedaannya dengan cuaca.
-• Mengidentifikasi penyebab utama perubahan iklim.
-• Menjelaskan dampak perubahan iklim terhadap manusia dan lingkungan.
-• Memperkenalkan tindakan mitigasi untuk mengurangi penyebab perubahan iklim.
-• Menjelaskan adaptasi untuk menghadapi risiko perubahan iklim.
-• Mendorong pengguna memahami permasalahan iklim melalui materi dan kuis interaktif.
+1. Menjelaskan pengertian perubahan iklim dan perbedaannya dengan cuaca.
+2. Mengidentifikasi penyebab utama perubahan iklim.
+3. Menjelaskan dampak perubahan iklim terhadap manusia dan lingkungan.
+4. Memperkenalkan tindakan mitigasi untuk mengurangi penyebab perubahan iklim.
+5. Menjelaskan adaptasi untuk menghadapi risiko perubahan iklim.
+6. Mendorong pengguna memahami permasalahan iklim melalui materi dan kuis interaktif.
 
 ---
