@@ -35,7 +35,7 @@ Keterangan:
 3. Folder images/ menyimpan logo dan gambar pendukung.
 4. README.md berisi dokumentasi proyek, implementasi, dan informasi pendukung.
 ---
----
+
 ## Anggota Kelompok
 
 | No | Nama | NIM | Tugas |
@@ -47,14 +47,14 @@ Keterangan:
 | 5 | Putu Nanda Devani Aprilia | 2515091022 | Membuat halaman Adaptasi |
 
 ---
----
+
 ## Deskripsi Website
 
 Iklimara merupakan website edukasi yang membahas perubahan iklim dan aksi iklim dengan mengacu pada Sustainable Development Goal (SDG) 13: Penanganan Perubahan Iklim. Website ini dirancang untuk membantu pengguna memahami pengertian perubahan iklim, penyebab, dampak, mitigasi, dan adaptasi melalui materi yang disusun secara bertahap.
 Website dikembangkan menggunakan HTML5, CSS3, dan JavaScript tanpa menggunakan framework antarmuka.
 
 ---
----
+
 ## Tujuan Website
 
 Iklimara dikembangkan untuk:
@@ -66,11 +66,11 @@ Iklimara dikembangkan untuk:
 6. Mendorong pengguna memahami permasalahan iklim melalui materi dan kuis interaktif.
 
 ---
----
+
 ## Teknologi Yang Digunakan
 
 ---
----
+
 ## Struktur Halaman Website
 
 | No | Halaman | File | Isi Utama |
@@ -83,4 +83,5 @@ Iklimara dikembangkan untuk:
 | 6 | Adaptasi | adaptasi.html | Penyesuaian terhadap risiko iklim pada sektor pertanian, kehutanan, air, masyarakat, tata ruang, dan perikanan budidaya |
 | 7 | Tentang | tentang.html | Tujuan website, keterkaitan dengan SDG 13, referensi, dan informasi anggota kelompok |
 
+---
 
