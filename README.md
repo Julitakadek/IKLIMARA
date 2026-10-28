@@ -127,4 +127,4 @@ Setiap perubahan membutuhkan kesadaran, setiap solusi membutuhkan tindakan, dan 
 
 
 
-<h1 align="center"><i>Pahami Perubahannya, Peduli Dampaknya, Bergerak untuk Masa Depan</i></h1>
+<p align="center"><i>Pahami Perubahannya, Peduli Dampaknya, Bergerak untuk Masa Depan</i></p>
