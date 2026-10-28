@@ -102,7 +102,7 @@ Iklimara dikembangkan untuk:
 
 ---
 
-## Sumber Refrensi
+## Refrensi Materi
 
 Materi website disusun dengan merujuk pada sumber edukasi dan publikasi terkait perubahan iklim, dampak, penyebab, mitigasi, adaptasi, serta SDG 13.
 
@@ -120,6 +120,18 @@ https://www.researchgate.net/profile/Ratna-Masum/publication/391808305_PARADIGMA
 10. Greenpeace UK. (t.t.). Effects of climate change. https://www.greenpeace.org.uk/challenges/climate-change/effects-climate-change/ 
 11. Tim Layanan Kehutanan Masyarakat. (2022, 30 Juni). 8 aksi adaptasi perubahan iklim. https://tlkm.or.id/publikasi/2019-2/
 12. United Nations. Goal 13: Take urgent action to combat climate change and its impacts. United Nations Sustainable Development Goals. https://sdgs.un.org/goals/goal13 
+
+---
+
+## Refrensi Gambar
+
+---
+
+## URL Website dan Repository
+
+|---|---|
+| Github Pages (Website) |     |
+| Repository Github |       |
 
 ---
 
