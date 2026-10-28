@@ -1,3 +1,7 @@
+<h1 align="center"><b>IKLIMARA</b></h1>
+
+<p align="center"><b>Pahami • Peduli • Bergerak</b></p>
+
 # IKLIMARA
 
 ### Pahami • Peduli • Bergerak
