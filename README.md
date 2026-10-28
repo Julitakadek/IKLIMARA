@@ -129,9 +129,8 @@ https://www.researchgate.net/profile/Ratna-Masum/publication/391808305_PARADIGMA
 
 ## URL Website dan Repository
 
-|---|---|
-| Github Pages (Website) |     |
-| Repository Github |       |
+1. Github Pages (Website):
+2. Repository Github :
 
 ---
 
