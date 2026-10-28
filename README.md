@@ -111,7 +111,8 @@ Referensi yang digunakan dalam materi mencakup:
 https://www.researchgate.net/profile/Ratna-Masum/publication/391808305_PARADIGMA_CLIMATE_CHANGE_PERUBAHAN_IKLIM/links/6827e8918a76251f22e251df/PARADIGMA-CLIMATE-CHANGE-PERUBAHAN-IKLIM.pdf
 9. Furoida, D. A. (2025, 24 September). 10 dampak perubahan iklim bagi kehidupan manusia dan lingkungan. Yayasan IAR Indonesia. https://yiari.or.id/10-dampak-perubahan-iklim/ 
 10. Greenpeace UK. (t.t.). Effects of climate change. https://www.greenpeace.org.uk/challenges/climate-change/effects-climate-change/ 
-11. Tim Layanan Kehutanan Masyarakat. (2022, 30 Juni). 8 aksi adaptasi perubahan iklim. https://tlkm.or.id/publikasi/2019-2/ 
+11. Tim Layanan Kehutanan Masyarakat. (2022, 30 Juni). 8 aksi adaptasi perubahan iklim. https://tlkm.or.id/publikasi/2019-2/
+12. United Nations. Goal 13: Take urgent action to combat climate change and its impacts. United Nations Sustainable Development Goals. https://sdgs.un.org/goals/goal13 
 
 ---
 
@@ -121,5 +122,9 @@ Perubahan iklim bukan sekadar persoalan tentang bumi yang semakin panas, tetapi 
 
 Setiap perubahan membutuhkan kesadaran, setiap solusi membutuhkan tindakan, dan setiap tindakan memiliki arti ketika dilakukan bersama. Kita mungkin tidak dapat menyelesaikan seluruh persoalan iklim dalam satu langkah, tetapi kita dapat memulai dari langkah yang ada dalam jangkauan kita.
 
-### Bumi tidak membutuhkan janji yang sempurna, melainkan tindakan nyata yang dilakukan bersama.
+**Bumi tidak membutuhkan janji yang sempurna, melainkan tindakan nyata yang dilakukan bersama.**
 
+
+
+
+<h1 align="center"><i>Pahami Perubahannya, Peduli Dampaknya, Bergerak untuk Masa Depan</i></h1>
