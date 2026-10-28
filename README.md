@@ -1,10 +1,8 @@
 <h1 align="center"><b>IKLIMARA</b></h1>
 
-<p align="center"><b>Pahami • Peduli • Bergerak</b></p>
+<p align="center"><b><i>Pahami • Peduli • Bergerak</i></b></p>
 
-# IKLIMARA
 
-### Pahami • Peduli • Bergerak
 ---
 ## Deskripsi Website
 
