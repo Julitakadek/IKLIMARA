@@ -49,8 +49,19 @@ Iklimara/
 ├── mitigasi.html
 ├── adaptasi.html
 ├── tentang.html
+```text
+Iklimara/
+├── index.html
+├── iklim.html
+├── penyebab.html
+├── dampak.html
+├── mitigasi.html
+├── adaptasi.html
+├── tentang.html
 ├── css/
 │   └── style.css
 └── images/
+```
+
 ```
 
