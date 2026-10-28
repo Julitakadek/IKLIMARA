@@ -3,6 +3,39 @@
 <p align="center"><b><i>Pahami • Peduli • Bergerak</i></b></p>
 
 ---
+## Struktur Proyek 
+
+```text
+Iklimara/
+├── CSS/
+│   └── style.css
+│
+├── images/
+│   ├── Gambar1.png
+│   ├── campus.jpg
+│   ├── coast.jpg
+│   ├── farm.jpg
+│   ├── forest.jpg
+│   ├── logo.svg
+│   ├── renewable.jpg
+│   └── traffic.jpg
+│
+├── README.md
+├── index.html
+├── iklim.html
+├── penyebab.html
+├── dampak.html
+├── mitigasi.html
+├── adaptasi.html
+└── tentang.html
+```
+Keterangan:
+1. File HTML berisi struktur dan materi masing-masing halaman.
+2. css/style.css berisi aturan tampilan yang digunakan bersama.
+3. Folder images/ menyimpan logo dan gambar pendukung.
+4. README.md berisi dokumentasi proyek, implementasi, dan informasi pendukung.
+---
+---
 ## Anggota Kelompok
 
 | No | Nama | NIM | Tugas |
@@ -38,31 +71,16 @@ Iklimara dikembangkan untuk:
 
 ---
 ---
-## Struktur Proyek 
+## Struktur Halaman Website
 
-Iklimara/
-├── CSS/
-│   └── style.css
-│
-├── images/
-│   ├── Gambar1.png
-│   ├── campus.jpg
-│   ├── coast.jpg
-│   ├── farm.jpg
-│   ├── forest.jpg
-│   ├── logo.svg
-│   ├── renewable.jpg
-│   └── traffic.jpg
-│
-├── README.md
-├── index.html
-├── iklim.html
-├── penyebab.html
-├── dampak.html
-├── mitigasi.html
-├── adaptasi.html
-└── tentang.html
-```
+| No | Halaman | File | Isi Utama |
+|---|---|---|---|
+| 1 | Beranda | index.html | Pengenalan website, ringkasan materi, dan akses menuju halaman pembelajaran |
+| 2 | Iklim | iklim.html | Pengertian perubahan iklim, perbedaan cuaca dan iklim, efek rumah kaca, dan tanda perubahan iklim |
+| 3 | Penyebab | penyebab.html | Bahan bakar fosil, transportasi, industri, deforestasi, pertanian, peternakan, dan limbah |
+| 4 | Dampak | dampak.html | Dampak terhadap cuaca ekstrem, pesisir, kesehatan, pangan, keanekaragaman hayati, dan kehidupan masyarakat | 
+| 5 | Mitigasi | mitigasi.html | Upaya mengurangi penyebab perubahan iklim oleh individu, masyarakat, bisnis, dan pemerintah |
+| 6 | Adaptasi | adaptasi.html | Penyesuaian terhadap risiko iklim pada sektor pertanian, kehutanan, air, masyarakat, tata ruang, dan perikanan budidaya |
+| 7 | Tentang | tentang.html | Tujuan website, keterkaitan dengan SDG 13, referensi, dan informasi anggota kelompok |
 
-```
 
