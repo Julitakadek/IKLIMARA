@@ -97,6 +97,22 @@ Iklimara dikembangkan untuk:
 
 ## Sumber Refrensi
 
+Materi website disusun dengan merujuk pada sumber edukasi dan publikasi terkait perubahan iklim, dampak, penyebab, mitigasi, adaptasi, serta SDG 13.
+
+Referensi yang digunakan dalam materi mencakup:
+1. National Aeronautics and Space Administration. (2024). What is climate change? NASA Science. https://science.nasa.gov/climate-change/what-is-climate-change/ 
+2. National Aeronautics and Space Administration. (2024). What is the greenhouse effect? NASA Science. https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/
+3. Danur Lambang Pristiandaru. (2023, 1 Agustus). Apa saja tanda-tanda terjadinya perubahan iklim? Kompas.com. https://lestari.kompas.com/read/2023/08/01/130000086/apa-saja-tanda-tanda-terjadinya-perubahan-iklim- 
+4. Biro Publikasi, Jurnal Ilmiah & Informasi Digital, Universitas Medan Area. (2024, 11 Oktober). Mitigasi perubahan iklim: Upaya global untuk menekan dampak krisis iklim. https://bpjiid.uma.ac.id/2024/10/11/mitigasi-perubahan-iklim-upaya-global-untuk-menekan-dampak-krisis-iklim/ 
+5. United Nations Development Programme. (2024, 29 Februari). What is climate change mitigation and why is it urgent? UNDP Climate Promise. https://climatepromise.undp.org/news-and-stories/what-climate-change-mitigation-and-why-it-urgent 
+6. Badan Meteorologi, Klimatologi, dan Geofisika. (2025, 5 Mei). Perubahan iklim. Stasiun Pemantau Atmosfer Global Lore Lindu Bariri. https://gawbariri.bmkg.go.id/publikasi/gawsarium/243-perubahan-iklim 
+7. Greenpeace UK. What causes climate change? https://www-greenpeace-org-uk.translate.goog/challenges/climate-change/what-causes-climate-change/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc 
+8. Sugiharto, S. B., Amruddin, Ma’sum, R. D., Hadidjah, K., Bakara, S. M., Suatmi, B. D., Sele, Y., & Indriani, I. K. (2025). Paradigma Climate Change (Perubahan Iklim). Media Sains Indonesia.
+https://www.researchgate.net/profile/Ratna-Masum/publication/391808305_PARADIGMA_CLIMATE_CHANGE_PERUBAHAN_IKLIM/links/6827e8918a76251f22e251df/PARADIGMA-CLIMATE-CHANGE-PERUBAHAN-IKLIM.pdf
+9. Furoida, D. A. (2025, 24 September). 10 dampak perubahan iklim bagi kehidupan manusia dan lingkungan. Yayasan IAR Indonesia. https://yiari.or.id/10-dampak-perubahan-iklim/ 
+10. Greenpeace UK. (t.t.). Effects of climate change. https://www.greenpeace.org.uk/challenges/climate-change/effects-climate-change/ 
+11. Tim Layanan Kehutanan Masyarakat. (2022, 30 Juni). 8 aksi adaptasi perubahan iklim. https://tlkm.or.id/publikasi/2019-2/ 
+
 ---
 
 ## Penutup
