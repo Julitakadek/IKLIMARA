@@ -122,15 +122,15 @@ File contoh: index.html
 </html>
 ```
 Penjelasan:
-- <!DOCTYPE html> menyatakan bahwa dokumen menggunakan HTML modern.
-- <html lang="id"> menetapkan bahasa utama halaman sebagai bahasa Indonesia.
-- <meta charset="UTF-8"> mendukung penampilan karakter dan simbol.
+- ```<!DOCTYPE html>``` menyatakan bahwa dokumen menggunakan HTML modern.
+- ```<html lang="id">``` menetapkan bahasa utama halaman sebagai bahasa Indonesia.
+- ```<meta charset="UTF-8">``` mendukung penampilan karakter dan simbol.
 - meta viewport membantu browser menyesuaikan lebar tampilan dengan perangkat yang digunakan.
 - meta description memberikan ringkasan isi halaman.
-- <title> menentukan judul halaman pada tab browser.
-- <link rel="stylesheet"> menghubungkan dokumen HTML dengan file CSS eksternal.
-- <header> dan <main> memisahkan bagian identitas/navigasi dari konten utama.
-- <body> menjadi tempat seluruh konten halaman ditampilkan.
+- ```<title>``` menentukan judul halaman pada tab browser.
+- ```<link rel="stylesheet">``` menghubungkan dokumen HTML dengan file CSS eksternal.
+- ```<header>``` dan ```<main>``` memisahkan bagian identitas/navigasi dari konten utama.
+- ```<body>``` menjadi tempat seluruh konten halaman ditampilkan.
 
 ---
 ### Navigasi Ant halaman
@@ -157,7 +157,7 @@ File contoh: index.html
 </header>
 ```
 Penjelasan:
-- <header class="topbar"> menjadi wadah identitas website dan navigasi utama.
+- ```<header class="topbar">``` menjadi wadah identitas website dan navigasi utama.
 - Tautan pada elemen <a> memungkinkan pengguna berpindah ke halaman lain.
 - href="iklim.html" mengarahkan pengguna ke file halaman Iklim, sedangkan href="tentang.html" mengarah ke halaman Tentang.
 - aria-label="Navigasi utama" memberikan keterangan mengenai fungsi elemen navigasi bagi teknologi bantu.
@@ -218,15 +218,15 @@ body {
 }
 ```
 Penjelasan:
-- :root merupakan tempat untuk mendefinisikan variabel CSS agar dapat digunakan kembali pada berbagai bagian stylesheet.
-- --forest, --moss, dan --sage digunakan untuk menyimpan warna dengan nuansa hijau.
-- --cream dan --paper menyimpan warna yang digunakan sebagai latar belakang.
-- --ink dan --muted menyimpan warna untuk teks utama dan teks pendukung.
-- --orange digunakan untuk menyimpan warna aksen.
-- --line digunakan untuk menyimpan warna garis pembatas.
-- --shadow menyimpan pengaturan bayangan yang dapat digunakan kembali pada elemen.
-- var(--cream) digunakan untuk mengambil nilai warna dari variabel --cream sebagai warna latar belakang halaman.
-- var(--ink) digunakan untuk mengambil nilai warna dari variabel --ink sebagai warna teks.
+- ```:root``` merupakan tempat untuk mendefinisikan variabel CSS agar dapat digunakan kembali pada berbagai bagian stylesheet.
+- ```--forest```, ```--moss```, dan ```--sage``` digunakan untuk menyimpan warna dengan nuansa hijau.
+- ```--cream``` dan ```--paper``` menyimpan warna yang digunakan sebagai latar belakang.
+- ```--ink``` dan ```--muted``` menyimpan warna untuk teks utama dan teks pendukung.
+- ```--orange``` digunakan untuk menyimpan warna aksen.
+- ```--line``` digunakan untuk menyimpan warna garis pembatas.
+- ```--shadow``` menyimpan pengaturan bayangan yang dapat digunakan kembali pada elemen.
+- ```var(--cream)``` digunakan untuk mengambil nilai warna dari variabel --cream sebagai warna latar belakang halaman.
+- ```var(--ink)``` digunakan untuk mengambil nilai warna dari variabel --ink sebagai warna teks.
 ---
 ### Penerapan Flexbox
 Flexbox digunakan untuk mengatur posisi dan susunan elemen dalam satu arah, baik secara horizontal maupun vertikal. Pada website Iklimara, Flexbox diterapkan pada identitas website, navigasi utama, tombol, dan beberapa komponen lainnya.
@@ -338,10 +338,10 @@ File contoh: iklim.html
 </figure>
 ```
 Penjelasan:
-- <img> menampilkan gambar dari folder images/.
+- ```<img>``` menampilkan gambar dari folder images/.
 - src menunjukkan lokasi file gambar yang digunakan.
 - alt menyediakan deskripsi alternatif ketika gambar tidak dapat ditampilkan dan membantu pengguna yang menggunakan pembaca layar.
-- <figure> mengelompokkan gambar dengan keterangannya, sedangkan <figcaption> menyediakan keterangan gambar.
+- ```<figure>``` mengelompokkan gambar dengan keterangannya, sedangkan <figcaption> menyediakan keterangan gambar.
 
 ---
 ### Penggunaan Elemen Interaktif HTML
@@ -360,9 +360,9 @@ Contoh dari iklim.html:
 </details>
 ```
 Penjelasan:
-- <details> digunakan sebagai wadah untuk informasi yang dapat dibuka dan ditutup.
-- <summary> menampilkan judul atau pertanyaan yang dapat diklik pengguna.
-- <p> berisi penjelasan yang ditampilkan ketika bagian tersebut dibuka.
+- ```<details>``` digunakan sebagai wadah untuk informasi yang dapat dibuka dan ditutup.
+- ```<summary>``` menampilkan judul atau pertanyaan yang dapat diklik pengguna.
+- ```<p>``` berisi penjelasan yang ditampilkan ketika bagian tersebut dibuka.
 - Atribut open dapat digunakan untuk menentukan bahwa informasi ditampilkan dalam keadaan terbuka.
 - Fitur ini memanfaatkan fungsi bawaan HTML dan pengaturan CSS sehingga tidak memerlukan JavaScript untuk menjalankan fungsi buka-tutup dasarnya.
 
