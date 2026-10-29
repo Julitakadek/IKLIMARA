@@ -158,6 +158,8 @@ Perubahan iklim bukan sekadar persoalan tentang bumi yang semakin panas, tetapi 
 
 Setiap perubahan membutuhkan kesadaran, setiap solusi membutuhkan tindakan, dan setiap tindakan memiliki arti ketika dilakukan bersama. Kita mungkin tidak dapat menyelesaikan seluruh persoalan iklim dalam satu langkah, tetapi kita dapat memulai dari langkah yang ada dalam jangkauan kita. Bumi tidak membutuhkan janji yang sempurna, melainkan tindakan nyata yang dilakukan bersama.
 
+Melalui website Iklimara, kami berharap masyarakat dapat memperoleh pengetahuan yang lebih baik mengenai pengertian, penyebab, dan dampak perubahan iklim. Selain itu, pengguna diharapkan dapat memahami pentingnya mitigasi dan adaptasi sebagai upaya untuk mengurangi penyebab perubahan iklim serta menghadapi risiko yang akan ditimbulkan.
+
 
 
 
