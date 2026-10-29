@@ -96,6 +96,7 @@ Gambar dan logo disimpan dalam folder images/. Semua file dalam folder images/ a
 ## Penjelasan Implementasi
 ---
 ### Struktur Dasar HTML5
+Setiap halaman Iklimara menggunakan struktur dasar HTML5 yang terdiri dari deklarasi DOCTYPE, elemen html, head, dan body. Bagian head berisi informasi halaman, seperti pengaturan karakter, viewport, deskripsi website, judul halaman, dan file CSS yang digunakan. Sementara itu, bagian body berisi seluruh konten yang ditampilkan kepada pengguna.
 File contoh: index.html
 ```
 <!DOCTYPE html>
@@ -129,6 +130,7 @@ Penjelasan:
 - <title> menentukan judul halaman pada tab browser.
 - <link rel="stylesheet"> menghubungkan dokumen HTML dengan file CSS eksternal.
 - <header> dan <main> memisahkan bagian identitas/navigasi dari konten utama.
+- <body> menjadi tempat seluruh konten halaman ditampilkan.
 
 ---
 ### Navigasi Ant halaman
@@ -178,31 +180,57 @@ Penjelasan:
 Atribut href="#mulai" mengarahkan pengguna ke elemen yang memiliki id="mulai". Mekanisme ini menggunakan tautan internal HTML sehingga pengguna dapat menuju bagian materi tertentu tanpa membuka halaman baru. Nilai id yang dituju harus sama dengan fragmen pada href.
 
 ---
-### Penggunaan CSS Eksternal dan Variabel CSS
-File contoh: css.css
-Contoh pola penggunaan variabel CSS:
+### Penggunaan CSS Eksternal 
+Setiap halaman HTML dihubungkan dengan file CSS masing-masing melalui elemen <link> pada bagian <head>. Pemisahan file HTML dan CSS bertujuan agar struktur konten dan pengaturan tampilan dikelola secara terpisah.
+
+Contoh penghubung CSS pada index.html:
+``<link href="css/index.css" rel="stylesheet"/>``
+
+Contoh penghubung CSS pada iklim.html:
+```<link href="css/iklim.css" rel="stylesheet"/>```
+
+Dengan demikian, index.html menggunakan css/index.css, sedangkan iklim.html menggunakan css/iklim.css. Pola yang sama diterapkan pada halaman lainnya dengan menyesuaikan nama file CSS masing-masing.
+
+---
+### Penggunaan Variabel CSS
+CSS Custom Properties atau variabel CSS digunakan untuk menyimpan nilai yang sering digunakan, seperti warna dan bayangan. Variabel didefinisikan menggunakan selector :root sehingga dapat dipanggil kembali pada berbagai bagian CSS. Penggunaan variabel membantu menjaga konsistensi tampilan website, mengurangi pengulangan nilai yang sama dan memudahkan perubahan desain.
+File contoh: index.css
+Contoh dari index.css
 ```
 :root {
-  --forest: #24533d;
-  --muted: #66766f;
+    --forest: #173f35;
+    --moss: #55785b;
+    --sage: #dce6d0;
+    --cream: #f7f3e9;
+    --paper: #fffdf8;
+    --ink: #23342d;
+    --muted: #68776d;
+    --orange: #df9b55;
+    --line: #dfe5d9;
+    --shadow: 0 18px 45px rgba(29,60,47,.09);
 }
-
-.topbar nav a:hover,
-.topbar nav a.active {
-  background: var(--forest);
-  color: #fff;
+```
+Contoh penerapan variabel:
+```
+body {
+    background: var(--cream);
+    color: var(--ink);
 }
 ```
 Penjelasan:
-- :root menjadi tempat mendefinisikan variabel yang dapat digunakan kembali pada stylesheet.
-- --forest menyimpan nilai warna utama, sedangkan --muted menyimpan warna pendukung.
-- var(--forest) mengambil nilai warna yang telah didefinisikan sehingga warna dapat digunakan secara konsisten.
-- Pseudo-class :hover mengatur tampilan tautan ketika penunjuk berada di atasnya, sedangkan .active menandai tautan yang sedang aktif.
-Penggunaan variabel mengurangi pengulangan nilai yang sama dan memudahkan perubahan warna.
-
+- :root merupakan tempat untuk mendefinisikan variabel CSS agar dapat digunakan kembali pada berbagai bagian stylesheet.
+- --forest, --moss, dan --sage digunakan untuk menyimpan warna dengan nuansa hijau.
+- --cream dan --paper menyimpan warna yang digunakan sebagai latar belakang.
+- --ink dan --muted menyimpan warna untuk teks utama dan teks pendukung.
+- --orange digunakan untuk menyimpan warna aksen.
+- --line digunakan untuk menyimpan warna garis pembatas.
+- --shadow menyimpan pengaturan bayangan yang dapat digunakan kembali pada elemen.
+- var(--cream) digunakan untuk mengambil nilai warna dari variabel --cream sebagai warna latar belakang halaman.
+- var(--ink) digunakan untuk mengambil nilai warna dari variabel --ink sebagai warna teks.
 ---
 ### Penerapan Flexbox
-File contoh: css/index.css
+Flexbox digunakan untuk mengatur posisi dan susunan elemen dalam satu arah, baik secara horizontal maupun vertikal. Pada website Iklimara, Flexbox diterapkan pada identitas website, navigasi utama, tombol, dan beberapa komponen lainnya.
+Contoh penerapan pada navigasi utama dari index.css:
 ```
 .topbar {
   display: flex;
@@ -210,74 +238,91 @@ File contoh: css/index.css
   justify-content: space-between;
   gap: 20px;
 }
-
+```
+Pengaturan navigasi di dalam header:
+```
 .topbar nav {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   gap: 4px;
+  overflow-x: auto;
+  flex-wrap: nowrap;
 }
 ```
 Penjelasan:
 - display: flex mengaktifkan Flexbox pada elemen.
 - align-items: center meratakan elemen secara vertikal di tengah sumbu silang.
-- justify-content: space-between memberi ruang di antara elemen utama pada header.
-- gap mengatur jarak antarelemen tanpa harus memberikan margin pada setiap elemen.
-- Flexbox pada navigasi membantu menyusun tautan menu secara horizontal.
+- justify-content: space-between memberikan jarak antara identitas website dan navigasi.
+- gap: 20px memberikan jarak antarbagian di dalam header.
+- justify-content: flex-end menempatkan tautan navigasi di sisi kanan.
+- flex-wrap: nowrap menjaga elemen navigasi tetap dalam satu baris.
+- overflow-x: auto memungkinkan navigasi digeser secara horizontal ketika lebarnya melebihi ruang yang tersedia.
 
 ---
 ### Penerapan CSS Grid
-File contoh: css/index.css
+CSS Grid digunakan untuk menyusun elemen ke dalam beberapa kolom dan baris. Teknik ini diterapkan pada bagian hero, pengenalan konten, kartu materi, dan bagian informasi lainnya agar tata letak lebih teratur.
+File contoh: index.css
+Contoh penerapan pada bagian hero dari index.css:
 ```
-.cards {
+.hero {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 20px;
+  grid-template-columns: 1.05fr .95fr;
+  align-items: center;
+  gap: 42px;
+}
+```
+Pengaturan tiga kolom pada kartu materi:
+```
+.three {
+  grid-template-columns: repeat(3,minmax(0,1fr));
 }
 ```
 Penjelasan:
-- display: grid mengaktifkan CSS Grid.
-- grid-template-columns menentukan tiga kolom dengan pembagian ruang yang sama.
-- minmax(0, 1fr) membantu setiap kolom berbagi ruang secara proporsional sekaligus mengurangi masalah ukuran minimum konten.
-- gap memberikan jarak antara kartu.
+- display: grid mengaktifkan CSS Grid pada elemen.
+- grid-template-columns menentukan jumlah dan ukuran kolom yang digunakan.
+- 1.05fr .95fr membagi area hero menjadi dua kolom dengan perbandingan ukuran 1,05 dan 0,95.
+- repeat(3,minmax(0,1fr)) membuat tiga kolom dengan ukuran yang sama dan tetap menyesuaikan ruang yang tersedia.
+- gap: 42px memberikan jarak antara kolom pada bagian hero.
+- CSS Grid membantu menyusun konten secara terstruktur, misalnya memisahkan teks dan gambar pada bagian hero.
 
 ---
-### Desain Responsif dengan Media Queries
-File contoh: css/index.css
+### Penerapan Media Queries
+Media queries digunakan untuk menyesuaikan tampilan website berdasarkan ukuran layar perangkat. Iklimara menggunakan beberapa breakpoint, yaitu 900px, 650px, dan 560px. Pengaturan ini membuat tata letak konten, ukuran elemen, dan jarak antarbagian dapat menyesuaikan ukuran layar desktop, tablet, maupun perangkat seluler.
+Contoh penerapan pada index.css:
 ```
-@media (max-width: 900px) {
-  .topbar {
-    gap: 12px;
-    padding: 10px 14px;
+@media (max-width:900px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding-top: 15px;
   }
 
-  .topbar nav {
-    justify-content: flex-start;
-    gap: 4px;
+  .three {
+    grid-template-columns: repeat(2,minmax(0,1fr));
   }
 
-  .topbar nav a {
-    padding: 8px 10px;
-    font-size: 0.8rem;
+  .intro-grid,.split {
+    grid-template-columns: 1fr;
   }
 }
 
-@media (max-width: 560px) {
-  .topbar {
-    gap: 10px;
-    padding: 9px 12px;
-  }
+Pengaturan untuk layar yang lebih kecil:
 
-  .topbar nav a {
-    padding: 7px 9px;
-    font-size: 0.76rem;
+@media (max-width:560px) {
+  .three,.two {
+    grid-template-columns: 1fr;
   }
 }
 ```
 Penjelasan:
-- @media (max-width: 900px) menerapkan aturan ketika lebar viewport tidak lebih dari 900 piksel.
-- @media (max-width: 560px) menerapkan penyesuaian tambahan pada layar yang lebih kecil.
-- padding, gap, dan font-size dikurangi agar navigasi menggunakan ruang yang lebih efisien.
-- Media queries tidak membuat halaman responsif secara otomatis. Hasilnya bergantung pada aturan CSS yang ditulis dan perlu diuji pada ukuran layar yang berbeda.
+- @media digunakan untuk menerapkan aturan CSS berdasarkan kondisi ukuran layar.
+- (max-width:900px) menerapkan aturan ketika lebar layar maksimal 900px.
+- grid-template-columns: 1fr mengubah susunan hero menjadi satu kolom.
+- repeat(2,minmax(0,1fr)) mengubah susunan kartu menjadi dua kolom.
+- (max-width:560px) menerapkan aturan ketika lebar layar maksimal 560px.
+- grid-template-columns: 1fr membuat kartu tersusun menjadi satu kolom agar lebih mudah dibaca pada layar ponsel.
+- Breakpoint 650px juga digunakan untuk menyesuaikan komponen akordeon dan kartu cek fakta.
 
 --- 
 ### Gambar dan Atribut Alternatif
@@ -299,6 +344,28 @@ Penjelasan:
 - <figure> mengelompokkan gambar dengan keterangannya, sedangkan <figcaption> menyediakan keterangan gambar.
 
 ---
+### Penggunaan Elemen Interaktif HTML
+Iklimara menggunakan elemen <details> dan <summary> untuk menampilkan informasi yang dapat dibuka dan ditutup oleh pengguna. Elemen ini diterapkan pada bagian refleksi, mitos atau fakta, serta penjelasan konsep perubahan iklim.
+Contoh dari iklim.html:
+```
+<details>
+  <summary>
+    Apa bedanya cuaca dan iklim?
+  </summary>
+  <p>
+    Cuaca menggambarkan kondisi atmosfer dalam waktu singkat,
+    sedangkan iklim merangkum pola cuaca suatu wilayah
+    dalam jangka panjang.
+  </p>
+</details>
+```
+Penjelasan:
+- <details> digunakan sebagai wadah untuk informasi yang dapat dibuka dan ditutup.
+- <summary> menampilkan judul atau pertanyaan yang dapat diklik pengguna.
+- <p> berisi penjelasan yang ditampilkan ketika bagian tersebut dibuka.
+- Atribut open dapat digunakan untuk menentukan bahwa informasi ditampilkan dalam keadaan terbuka.
+- Fitur ini memanfaatkan fungsi bawaan HTML dan pengaturan CSS sehingga tidak memerlukan JavaScript untuk menjalankan fungsi buka-tutup dasarnya.
+
 ---
 ## Struktur Proyek 
 ---
