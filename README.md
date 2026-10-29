@@ -46,11 +46,11 @@ Keterangan:
 
 | No | Nama | NIM | Tugas |
 |---|---|---|---|
-| 1 | Kadek Julita Widianti | 2515091010 | Membuat halaman iklim dan mitigasi serta membuat Readme |
-| 2 | Marsel Gultom | 2515091069 | Membuat halaman beranda dan tentang serta membuat css | 
-| 3 | Kadek Tito Marditya Putra | 2515091104 | Membuat halaman dampak |
-| 4 | Ronatio Br Parhusip | 2515091147 | Membuat halaman penyebab |
-| 5 | Putu Nanda Devani Aprilia | 2515091022 | Membuat halaman Adaptasi |
+| 1 | Kadek Julita Widianti | 2515091010 |  |
+| 2 | Marsel Gultom | 2515091069 |  | 
+| 3 | Kadek Tito Marditya Putra | 2515091104 |  |
+| 4 | Ronatio Br Parhusip | 2515091147 |  |
+| 5 | Putu Nanda Devani Aprilia | 2515091022 |  |
 
 ---
 
