@@ -8,7 +8,13 @@
 ```text
 IKLIMARA/
 ├── CSS/
-│   └── style.css
+│   ├── adaptasi.css
+│   ├── dampak.css
+│   ├── iklim.css
+│   ├── index.css
+│   ├── mitigasi.css
+│   ├── penyebab.css
+│   └── tentang.css
 │
 ├── images/
 │   ├── Gambar1.png
