@@ -374,7 +374,7 @@ Referensi gambar yang digunakan dalam website mencakup:
 ---
 ## URL Website dan Repository
 ---
-1. Github Pages (Website):
+1. Github Pages (Website): https://julitakadek.github.io/IKLIMARA/
 2. Repository Github : https://github.com/Julitakadek/IKLIMARA 
 
 ---
