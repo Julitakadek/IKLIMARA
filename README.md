@@ -125,6 +125,14 @@ https://www.researchgate.net/profile/Ratna-Masum/publication/391808305_PARADIGMA
 
 ## Refrensi Gambar
 
+Referensi gambar yang digunakan dalam website mencakup:
+1. Kuncara, Z. (2025, 4 April). Sinar matahari menyaring melalui dedaunan hijau yang subur [Foto]. https://unsplash.com/id/foto/sinar-matahari-menyaring-melalui-dedaunan-hijau-yang-subur-nmkASjsP1uU
+2. Febriyani, N. (2026, 6 Februari). Efek gas rumah kaca (GRK). Rumah Sakit Universitas Indonesia. https://www.rs.ui.ac.id/umum/berita-artikel/artikel-populer/efek-gas-rumah-kaca-grk 
+3. Lue, C. (2024, 10 Mei). Jalan kota yang dipenuhi dengan banyak lalu lintas [Foto]. https://unsplash.com/id/foto/jalan-kota-yang-dipenuhi-dengan-banyak-lalu-lintas-QcJ1XCc3gJo
+4. Rinaldi, I. (2024, 23 Desember). Sekelompok orang berjalan melalui jalan yang terendam banjir [Foto]. https://unsplash.com/id/foto/sekelompok-orang-berjalan-melalui-jalan-yang-terendam-banjir-WSMbpzRskdA
+5. Wolff, Z. (2023, 31 Januari). Ladang rumput hijau dengan turbin angin di latar belakang [Foto]. https://unsplash.com/id/foto/ladang-rumput-hijau-dengan-turbin-angin-di-latar-belakan-baXCV2qg9Ew
+6. Haberdoedas. (2026, 18 Juni). Orang-orang berkumpul di taman komunitas dengan pepohonan di latar belakang [Foto]. https://unsplash.com/id/foto/orang-orang-berkumpul-di-taman-komunitas-dengan-pepohonan-di-latar-belakang-c9xGzxR8ego
+7. Waskita, D. (2024, 8 Juli). Sekelompok tanaman yang tumbuh di ladang [Foto]. https://unsplash.com/id/foto/sekelompok-tanaman-yang-tumbuh-di-ladang-ajIAWDqbx1w
 ---
 
 ## URL Website dan Repository
