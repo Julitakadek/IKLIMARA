@@ -56,7 +56,7 @@ Keterangan:
 
 ## Deskripsi Website
 
-Iklimara adalah website edukasi yang mengajak masyarakat mengenal perubahan iklim, memahami dampaknya, serta mempelajari langkah mitigasi dan adaptasi yang dapat dilakukan untuk menghadapi tantangan lingkungan. Website ini dikembangkan sebagai media pembelajaran yang mengacu pada Sustainable Development Goal (SDG) 13, yaitu Aksi Iklim: Perubahan Iklim dan Lingkungan.Website dikembangkan menggunakan HTML5, CSS3, dan JavaScript tanpa menggunakan framework antarmuka.
+Iklimara adalah website edukasi yang mengajak masyarakat mengenal perubahan iklim, untuk memahami penyebab, dampak, serta mempelajari langkah mitigasi dan adaptasi yang dapat dilakukan untuk menghadapi tantangan lingkungan. Website ini dikembangkan sebagai media pembelajaran yang mengacu pada Sustainable Development Goal (SDG) 13, yaitu Aksi Iklim: Perubahan Iklim dan Lingkungan.Website dikembangkan menggunakan HTML5, CSS3, dan JavaScript tanpa menggunakan framework antarmuka.
 
 ### Filosofi Nama Iklimara
 
