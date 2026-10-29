@@ -10,11 +10,11 @@ Iklimara adalah website edukasi yang mengajak masyarakat mengenal perubahan ikli
 ---
 | No | Nama | NIM | Tugas |
 |---|---|---|---|
-| 1 | Kadek Julita Widianti | 2515091010 |  |
-| 2 | Marsel Gultom | 2515091069 |  | 
-| 3 | Kadek Tito Marditya Putra | 2515091104 |  |
-| 4 | Ronatio Br Parhusip | 2515091147 |  |
-| 5 | Putu Nanda Devani Aprilia | 2515091022 |  |
+| 1 | Kadek Julita Widianti | 2515091010 | Membuat page 2 dan 5 yang berkaitan dengan dasar perubahan iklin dan mitigasi serta membuat README.md |
+| 2 | Marsel Gultom | 2515091069 | Membuat page 1 dan 7 yang berkaitan dengan beranda dan tentang website ini serta membuat README.md | 
+| 3 | Kadek Tito Marditya Putra | 2515091104 | Membuat page 4 yang berkaitan dengan dampak |
+| 4 | Ronatio Br Parhusip | 2515091147 | Membuat page 3 yang berkaitan dengan penyebab |
+| 5 | Putu Nanda Devani Aprilia | 2515091022 | Membuat page 6 yang berkaitan dengan adaptasi  |
 
 ---
 ---
