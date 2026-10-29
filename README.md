@@ -17,14 +17,14 @@ IKLIMARA/
 │   └── tentang.css
 │
 ├── images/
-│   ├── Gambar1.png
-│   ├── campus.jpg
-│   ├── coast.jpg
-│   ├── farm.jpg
-│   ├── forest.jpg
+│   ├── aksi-masyarakat.jpg
+│   ├── banjir-pesisir.jpg
+│   ├── efek-gas-rumah-kaca.png
+│   ├── energi-terbarukan.jpg
+│   ├── hutan.jpg
+│   ├── lalu-lintas.jpg
 │   ├── logo.svg
-│   ├── renewable.jpg
-│   └── traffic.jpg
+│   └── pertanian.jpg
 │
 ├── README.md
 ├── index.html
