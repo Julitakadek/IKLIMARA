@@ -79,6 +79,11 @@ Iklimara dikembangkan untuk:
 6. Mendorong pengguna memahami permasalahan iklim melalui materi dan kuis interaktif.
 ---
 
+## Sasaran Pengguna
+
+Website Iklimara ditujukan kepada masyarakat umum, khususnya pelajar dan pengguna yang ingin memahami perubahan iklim dengan cara yang sederhana dan mudah dipahami.
+---
+
 ## Teknologi Yang Digunakan
 
 | Teknologi | Implementasi |
