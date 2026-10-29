@@ -82,7 +82,6 @@ Iklimara dikembangkan untuk:
 ## Sasaran Pengguna
 
 Website Iklimara ditujukan kepada masyarakat umum, khususnya pelajar dan pengguna yang ingin memahami perubahan iklim dengan cara yang sederhana dan mudah dipahami.
----
 
 ## Teknologi Yang Digunakan
 
