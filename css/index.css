@@ -178,7 +178,7 @@ figcaption {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .feature-card, .quote-card, .mini-card, .reflection {
     padding: 28px;
@@ -198,7 +198,7 @@ figcaption {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .dark p {
     color: #e0e9dd;
@@ -223,7 +223,7 @@ figcaption {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .cards {
     display: grid;
@@ -238,7 +238,7 @@ figcaption {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .mini-card {
     background: var(--paper);
@@ -528,7 +528,7 @@ footer p {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .fact-check-feature {
     max-width: 1184px;
@@ -569,7 +569,7 @@ footer p {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .fact-check-card {
     align-self: start;
@@ -622,7 +622,7 @@ footer p {
 }
 
 
-/* ===== KARTU DAN KONTEN KHUSUS ===== */
+/* ===== CARD DAN KONTEN KHUSUS ===== */
 
 .fact-check-card p {
     margin: 16px 0 2px;
@@ -658,7 +658,7 @@ footer p {
     }
 
 
-    /* ===== KARTU DAN KONTEN KHUSUS ===== */
+    /* ===== CARD DAN KONTEN KHUSUS ===== */
 
     .fact-check-feature {
         margin: 28px 18px 45px;
