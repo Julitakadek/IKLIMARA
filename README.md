@@ -341,7 +341,8 @@ Penjelasan:
 - ```<img>``` menampilkan gambar dari folder images/.
 - src menunjukkan lokasi file gambar yang digunakan.
 - alt menyediakan deskripsi alternatif ketika gambar tidak dapat ditampilkan dan membantu pengguna yang menggunakan pembaca layar.
-- ```<figure>``` mengelompokkan gambar dengan keterangannya, sedangkan <figcaption>  menyediakan keterangan gambar.
+- ```<figure>``` mengelompokkan gambar dengan keterangannya, sedangkan
+- <figcaption> menyediakan keterangan gambar.
 
 ---
 ### Penggunaan Elemen Interaktif HTML
