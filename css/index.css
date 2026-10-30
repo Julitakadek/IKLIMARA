@@ -553,11 +553,6 @@ footer p {
   transform: translateY(-2px);
 }
 
-.page-nav-link.disabled {
-  opacity: .45;
-  box-shadow: none;
-}
-
 @media (max-width:560px) {
   .page-navigation {
     padding: 0 18px 34px;
